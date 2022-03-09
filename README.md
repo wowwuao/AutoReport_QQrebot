@@ -25,7 +25,6 @@ pip install requests
 3. 打开 QQRebot\src\plugins\atall\plugins\setTime.py
   根据汉字提示，进行填空。
 4. 同时运行 go-cqhttp.exe(go-cqhttp) 和 bot.py ，看到 python控制台里有你用来当机器人的QQ号就证明连接成功了，可以通过 /echo XXX测试一下
-5. 填报是根据上一天的历史记录来自动完成的，如果发生位置等信息变更，需要自己手动更新。疫情防控通填报脚本来源 https://github.com/DrS1X/UPC-Submit-Auto ，感谢这位老哥！
 
 
 
