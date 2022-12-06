@@ -24,7 +24,7 @@ pip install requests
 2. 在命令行里打开 go-cqhttp.exe(Windows系统) 或者 go-cqhttp(Linux系统)，进行模拟登录，确保登录成功。
 3. 打开 QQRebot\src\plugins\atall\plugins\setTime.py
   根据汉字提示，进行填空。
-4. 同时运行 go-cqhttp.exe(go-cqhttp) 和 bot.py ，看到 python控制台里有你用来当机器人的QQ号就证明连接成功了，可以通过 /echo XXX测试一下
+4. 同时运行 go-cqhttp.exe(Windows) 或 go-cqhttp(Linux) 以及 bot.py ，看到 python 控制台里有你用来当机器人的QQ号就证明连接成功了，可以通过 /echo XXX测试一下
 
 
 
