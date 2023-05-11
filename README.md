@@ -26,4 +26,5 @@ pip install requests
   根据汉字提示，进行填空。
 4. 同时运行 go-cqhttp.exe(Windows) 或 go-cqhttp(Linux) 以及 bot.py ，看到 python 控制台里有你用来当机器人的QQ号就证明连接成功了，可以通过 /echo XXX测试一下
 
+## Security
 [![Security Status](https://s.murphysec.com/badge/wowwuao/AutoReport_QQrebot.svg)](https://www.murphysec.com/p/wowwuao/AutoReport_QQrebot)
